@@ -1,0 +1,15 @@
+{
+  "name": "playwright-ti",
+  "version": "1.0.0",
+  "description": "Page Object Model with playwright for TI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Elvis Aragon",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "playwright": "^1.29.2"
+  }
+}
